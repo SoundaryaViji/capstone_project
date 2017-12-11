@@ -1,19 +1,19 @@
-Capstone Project Proposal:
+# Capstone Project Proposal:
 
-Bank Marketing Data Set:
+## Bank Marketing Data Set:
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 With the provided dataset I am trying to analysis and predict if the client after marketing campaign will subscribe to term deposit or not.
 
 Portuguese banking institution is the client, it will help them to analysis with the results 
 
-whether their marketing campaign is success, 
-what other methods or changes they can do to improve the campaign
-Whats the effectiveness and things they can continue from their last campaign
-Whether they are targeting the right set of audience.
+1) whether their marketing campaign is success, 
+2) what other methods or changes they can do to improve the campaign
+3) Whats the effectiveness and things they can continue from their last campaign
+4) Whether they are targeting the right set of audience.
 
 My analysis will help them to make a decision as to how to improve their campaigns so that they can achieve more clients subscribing to their term deposit.
 
-Data Analysis and Visualization:
+## Data Analysis and Visualization:
 The dataset consists of 17 attributes and 45211 instances.
 First step is to extract data, clean them up and deal with missing, invalid or corrupted values
 After the data is cleaned, I will apply data visualization to understand the data given and try to get deeper understanding of what the data represents
@@ -31,6 +31,6 @@ Will apply Data wrangling techniques to get a meaningful data from this dataset 
 
 After the data wrangling is done and visualization to obtain the analysis of the data set. we can apply machine learning algorithms to classify and predict the future outcome of the campaigns
 
-Deliverables:
-Jupyter notebook with analysis results
-Slide deck.
+## Deliverables:
+* Jupyter notebook with analysis results
+* Slide deck.
